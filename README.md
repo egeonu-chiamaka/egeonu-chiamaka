@@ -1,6 +1,8 @@
 # Hi, Welcome to Olive's Hub
 I am a front-end developer 
 ---
+## you can contact me with the following:
+-[Email](egeonu.olive@gmail.com)
 
 <!--
 **egeonu-chiamaka/egeonu-chiamaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
