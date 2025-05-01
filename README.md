@@ -5,7 +5,8 @@ I am a Full-Stack developer
 -[Email](egeonu.olive@gmail.com)
 ***
 # My Target
-| Project | 
+| Project | Description | Programming Languages |
+| --- | --- | ---|
 
 <!--
 **egeonu-chiamaka/egeonu-chiamaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
