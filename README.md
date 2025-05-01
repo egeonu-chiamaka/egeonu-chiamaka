@@ -7,6 +7,7 @@ I am a Full-Stack developer
 # My Target
 | Project | Description | Programming Languages |
 | --- | --- | ---|
+| `Made-in-Aba` | An Ecommrce website to take in data of all businesses in Aba | NextJs, Tailwind CSS, typescriptJs, Redux(state management), React Query(API), Formik(Form handling), React Toastify(Notification), Stripe.Js(Payment)-- NodeJs, Express, JWT(auth), Nodemailer(email), REST(API) |
 
 <!--
 **egeonu-chiamaka/egeonu-chiamaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
